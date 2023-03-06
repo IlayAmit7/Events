@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "63726c4d8fd0e8a4a0deb2c9"
+  },
+  "eventTypeId": {
+    "$oid": "63726415778a669c5a83bf44"
+  },
+  "description": "Wedding of Kai and Roni",
+  "address": "Yono, Alon 1, Tel Aviv",
+  "participants": 300,
+  "eventDateTime": {
+    "$date": {
+      "$numberLong": "1699201200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63726cc48fd0e8a4a0deb2cd"
+  },
+  "eventTypeId": {
+    "$oid": "63726415778a669c5a83bf44"
+  },
+  "description": "Wedding of Gil and Yuval",
+  "address": "Garden Haifa, Zehavit 2, Haifa",
+  "participants": 450,
+  "eventDateTime": {
+    "$date": {
+      "$numberLong": "1678468740000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63726d138fd0e8a4a0deb2cf"
+  },
+  "eventTypeId": {
+    "$oid": "63726415778a669c5a83bf44"
+  },
+  "description": "Wedding of Ben and Noam",
+  "address": "Via Kaselio, Sadot 3, Yafo",
+  "participants": 500,
+  "eventDateTime": {
+    "$date": {
+      "$numberLong": "1672679970000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63726d888fd0e8a4a0deb2d3"
+  },
+  "eventTypeId": {
+    "$oid": "6372642a778a669c5a83bf46"
+  },
+  "description": "Nitay's birthday",
+  "address": " Tavor 13, Pardes Hanna",
+  "participants": 100,
+  "eventDateTime": {
+    "$date": {
+      "$numberLong": "1699798920000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63726dce8fd0e8a4a0deb2d5"
+  },
+  "eventTypeId": {
+    "$oid": "6372642a778a669c5a83bf46"
+  },
+  "description": "Miri's birthday",
+  "address": "Lilach 20, Azor",
+  "participants": 25,
+  "eventDateTime": {
+    "$date": {
+      "$numberLong": "1676211420000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63726e328fd0e8a4a0deb2d7"
+  },
+  "eventTypeId": {
+    "$oid": "6372642a778a669c5a83bf46"
+  },
+  "description": "Birthday for my best friend Itay",
+  "address": "Hashikma 5, Jerusalem",
+  "participants": 80,
+  "eventDateTime": {
+    "$date": {
+      "$numberLong": "1669825200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63726eb48fd0e8a4a0deb2db"
+  },
+  "eventTypeId": {
+    "$oid": "6372647e778a669c5a83bf49"
+  },
+  "description": "Trip to the north for the development team",
+  "address": "Eilat",
+  "participants": 20,
+  "eventDateTime": {
+    "$date": {
+      "$numberLong": "1672474200000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "63726ef38fd0e8a4a0deb2dd"
+  },
+  "eventTypeId": {
+    "$oid": "6372647e778a669c5a83bf49"
+  },
+  "description": "Trip to the south for the UI team",
+  "address": "Har Hermon",
+  "participants": 10,
+  "eventDateTime": {
+    "$date": {
+      "$numberLong": "1670668200000"
+    }
+  }
+}]

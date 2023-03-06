@@ -1,0 +1,27 @@
+form {
+    width: 250px;
+    border: black solid;
+    padding: 10px;
+    margin: auto;
+    text-align: left;
+    border-radius: 20px;
+    box-shadow: black 10px 10px 10px;
+}
+
+select, input, button {
+    width: 100%;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+}
+
+label {
+    color:black;
+    font-size: medium;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+h4 {
+    text-align: center;
+    color:black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

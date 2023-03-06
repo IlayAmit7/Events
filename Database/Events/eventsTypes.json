@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "63726415778a669c5a83bf44"
+  },
+  "eventTypeName": "wedding"
+},{
+  "_id": {
+    "$oid": "6372642a778a669c5a83bf46"
+  },
+  "eventTypeName": "birthday"
+},{
+  "_id": {
+    "$oid": "6372647e778a669c5a83bf49"
+  },
+  "eventTypeName": "companyEvent"
+}]
